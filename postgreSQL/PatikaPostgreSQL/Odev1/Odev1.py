@@ -4,7 +4,7 @@ This is a postgresql excercise project file
 
 Kodluyoruz / patika.dev project
 
-Source of Tasks Link bleow  (description of language : Turkish)
+Source of Tasks Link bleow  (language of description : Turkish)
 https://app.patika.dev/moduller/sql/Odev1
 
 
