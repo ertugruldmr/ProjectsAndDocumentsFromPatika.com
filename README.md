@@ -1,2 +1,2 @@
 # ProjectsAndDocumentsFromPatika.com
-Tasks, Challenges, Learning Materials and projects given by Patika.dev (Education platform).
+Tasks, Challenges, Learning Materials and projects given by patika.dev (Education platform).
